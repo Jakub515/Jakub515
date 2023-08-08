@@ -1,0 +1,4 @@
+- Hi, I’m @Jakub515
+- I’m interested in Programming esp32 and raspberry pi pico in micropython or in  arduino ide.
+- I’m currently learning a C/C++ leanguages to program a esp32-cam.
+- I could help in micropython problems.
